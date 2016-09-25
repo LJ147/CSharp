@@ -1,0 +1,6 @@
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\bin\Debug\HomeWork02.exe.config
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\bin\Debug\HomeWork02.exe
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\bin\Debug\HomeWork02.pdb
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\obj\Debug\HomeWork02.csprojResolveAssemblyReference.cache
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\obj\Debug\HomeWork02.exe
+Y:\Documents\WorkSpsce\C#\HomeWork02\HomeWork02\obj\Debug\HomeWork02.pdb

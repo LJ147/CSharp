@@ -1,0 +1,6 @@
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\bin\Debug\Homework03_3.exe.config
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\bin\Debug\Homework03_3.exe
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\bin\Debug\Homework03_3.pdb
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\obj\Debug\Homework03_3.csprojResolveAssemblyReference.cache
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\obj\Debug\Homework03_3.exe
+Y:\Documents\WorkSpsce\C#\Homework03_3\Homework03_3\obj\Debug\Homework03_3.pdb
